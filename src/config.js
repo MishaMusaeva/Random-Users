@@ -1,0 +1,1 @@
+export const SITE = 'https://randomuser.me/api/?results='

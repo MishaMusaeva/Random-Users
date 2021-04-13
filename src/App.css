@@ -1,0 +1,55 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+html, body{
+  padding: 0;
+  margin: 0;
+  background: url(https://i.pinimg.com/564x/8f/ef/50/8fef50b3894a36a4a39da931ed193434.jpg)no-repeat fixed;
+  background-size: cover;
+}
+.text{
+  font-size: 1.5em;
+  font-family: 'Syne Mono', monospace;
+  color: cadetblue;
+  
+
+}
+form{
+margin-top: 50px;
+margin-left: 520px;
+}
+input{
+  width: 300px;
+  height: 30px;
+  border: none;
+  outline: none;
+  
+}
+button{
+  height: 35px;
+  width: 40px;
+  margin-left: 10px;
+  border: none;
+  outline: none;
+  background-color: rgb(36, 34, 34);
+  color: aliceblue;
+}
+.card{
+  margin-top: 50px;
+  margin-left: 200px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 80%; 
+}
+.box{
+  margin-top: 30px;
+  padding: 1.5rem;
+  width: 400px;
+  font-size: 15px;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  color: white;
+  background-color: #000000d0;
+ 
+}
+
